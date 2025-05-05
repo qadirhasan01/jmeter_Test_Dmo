@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1745925151406,2309,LaunchT1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,14794,699,1,1,null,0,510,2000
+1745925151915,2309,/wconnect/wcscripts/FileUpload.wwd-29,200,OK,Thread Group 1-1,text,true,,14794,699,1,1,https://www.west-wind.com/wconnect/wcscripts/FileUpload.wwd,2309,0,2000
+1745925154226,1126,T2_upload,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,390,124002,1,1,null,0,2,0
+1745925154227,1126,/wconnect/UppyUpload.wwd?id=entryId-30,200,OK,Thread Group 1-1,text,true,,390,124002,1,1,https://www.west-wind.com/wconnect/UppyUpload.wwd?id=entryId,1126,0,0
